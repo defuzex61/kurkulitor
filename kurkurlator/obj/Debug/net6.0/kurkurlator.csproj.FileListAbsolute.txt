@@ -1,0 +1,15 @@
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\bin\Debug\net6.0\kurkurlator.exe
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\bin\Debug\net6.0\kurkurlator.deps.json
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\bin\Debug\net6.0\kurkurlator.runtimeconfig.json
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\bin\Debug\net6.0\kurkurlator.dll
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\bin\Debug\net6.0\kurkurlator.pdb
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.csproj.AssemblyReference.cache
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.AssemblyInfoInputs.cache
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.AssemblyInfo.cs
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.csproj.CoreCompileInputs.cache
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.dll
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\refint\kurkurlator.dll
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.pdb
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\kurkurlator.genruntimeconfig.cache
+C:\Users\vlastelin kalek\source\repos\kurkurlator\kurkurlator\obj\Debug\net6.0\ref\kurkurlator.dll
